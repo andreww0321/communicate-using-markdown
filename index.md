@@ -4,3 +4,6 @@
 ```
 System.out.println("Hello World");
 ```
+- [ ] Finish Software Engineering homework
+- [ ] Go eat dinner
+- [x] Call my mom
